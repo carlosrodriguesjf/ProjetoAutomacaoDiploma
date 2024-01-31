@@ -1,0 +1,5 @@
+Através de um arquivo em excell com dados de alunos
+
+Preencher os campos mutáveis em um certificado padrão
+
+Campos: Nome formando, data de conclusão, rg, curso, carga horária, assinatura do reitor

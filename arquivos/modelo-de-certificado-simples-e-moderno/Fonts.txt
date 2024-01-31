@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Montserrat Subrayada
+Author: Julieta Ulanovsky
+Url: https://fonts.google.com/specimen/Montserrat+Subrayada
+
+Font: Courgette
+Author: Karolina Lach
+Url: https://fonts.google.com/specimen/Courgette
